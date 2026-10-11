@@ -9,4 +9,4 @@ services:
       STUDENT_GROUP: IT2-2313
       STUDENT_ID: "38086"
     ports:
-      - "8080:8080"
+      - "8081:8080"
