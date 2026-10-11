@@ -1,0 +1,5 @@
+Name: Dinara
+Surname: Djaylauva
+Group: IT2-2313
+Student ID: 38086
+Course: DevOps
