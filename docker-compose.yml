@@ -1,0 +1,12 @@
+services:
+  student-app:
+    build: .
+    image: djaylauva-dinara-devops
+    container_name: djaylauva-dinara-compose
+    environment:
+      STUDENT_NAME: Dinara
+      STUDENT_SURNAME: Djaylauva
+      STUDENT_GROUP: IT2-2313
+      STUDENT_ID: "38086"
+    ports:
+      - "8080:8080"
